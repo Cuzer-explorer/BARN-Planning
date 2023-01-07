@@ -1,0 +1,18 @@
+<launch>
+
+  <arg name="world_id" default="0"/>
+  <arg name="map_file" default="$(find jackal_helper)/worlds/BARN/map_files/yaml_$(arg world_id).yaml"/>
+  <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)">
+    <param name="frame_id" value="/map" />
+  </node>
+
+  <rosparam command="load" file="$(find rrt_dwa)/param.yaml"/>
+  <param name = "map_topic" type = "string" value = "/map"/>
+  <param name = "laser_topic" type = "string" value = "/front/scan"/>
+  <!-- <param name = "vel_pub_topic" type = "string" value = "/jackal_velocity_controller/cmd_vel"/> -->
+  <param name = "vel_pub_topic" type = "string" value = "/cmd_vel"/>
+  <node pkg="rrt_dwa" name="RRT_DWA_plan" type="plan" output="screen">
+  </node>
+
+  <node pkg="rviz" type="rviz" name="rviz" args="-d $(find course_agv_nav)/launch/nav.rviz"/>
+</launch>

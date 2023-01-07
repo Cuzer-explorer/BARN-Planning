@@ -1,0 +1,13 @@
+<launch>
+    <!-- Run the map server -->
+    <!-- <arg name="world_id" default="0"/>
+    <arg name="map_file" default="$(find jackal_helper)/worlds/BARN/map_files/yaml_$(arg world_id).yaml"/>
+    <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)"/> -->
+
+    <!-- <node pkg="course_agv_nav" type="global_planner.py" name="global_planner" ns="course_agv"  output="screen"/> -->
+    <node pkg="course_agv_nav" type="local_planner.py" name="local_planner" ns="course_agv" output="screen"/>
+    <!-- <node pkg="course_agv_nav" type="local_planner.py" name="tracking" ns="course_agv" output="screen"/> -->
+    <!-- <node pkg="course_agv_nav" type="stupid_tracking.py" name="tracking" ns="course_agv" output="screen"/> -->
+    
+    <!-- <node pkg="rviz" type="rviz" name="rviz" args="-d $(find course_agv_nav)/launch/nav.rviz"/> -->
+</launch>

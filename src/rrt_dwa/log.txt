@@ -1,0 +1,370 @@
+loop 0
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 1
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 2
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 3
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 4
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 5
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 6
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 7
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 8
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 9
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 10
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 11
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 12
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 13
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 14
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 15
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 16
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 17
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 18
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 19
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 20
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 21
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 22
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 23
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 24
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 25
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 26
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 27
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 28
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 29
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 30
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 31
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 32
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 33
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 34
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 35
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 36
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 37
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 38
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 39
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 40
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 41
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 42
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 43
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 44
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 45
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 46
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 47
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 48
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 49
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 50
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 51
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 52
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 53
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 54
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 55
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 56
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 57
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 58
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 59
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 60
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 61
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 62
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 63
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 64
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 65
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 66
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 67
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 68
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 69
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 70
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 71
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 72
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 73
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 74
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 75
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 76
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 77
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 78
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 79
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 80
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 81
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 82
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 83
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 84
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 85
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 86
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 87
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 88
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 89
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 90
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 91
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 92
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 93
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 94
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 95
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 96
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 97
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 98
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 99
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 100
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 101
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 102
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 103
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 104
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 105
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 106
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 107
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 108
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 109
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 110
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 111
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 112
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 113
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 114
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 115
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 116
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 117
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 118
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 119
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 120
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 121
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 122
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 123
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 124
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 125
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 126
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 127
+goal_index: 1, ratio: 0.647013, mid_goal_x: -1.826201, mid_goal_y: 3.855426
+loop 128
+goal_index: 1, ratio: 0.606575, mid_goal_x: -1.806290, mid_goal_y: 3.953424
+loop 129
+goal_index: 1, ratio: 0.606575, mid_goal_x: -1.806290, mid_goal_y: 3.953424
+loop 130
+goal_index: 1, ratio: 0.566136, mid_goal_x: -1.786380, mid_goal_y: 4.051422
+loop 131
+goal_index: 1, ratio: 0.566136, mid_goal_x: -1.786380, mid_goal_y: 4.051422
+loop 132
+goal_index: 1, ratio: 0.525698, mid_goal_x: -1.766469, mid_goal_y: 4.149419
+loop 133
+goal_index: 1, ratio: 0.525698, mid_goal_x: -1.766469, mid_goal_y: 4.149419
+loop 134
+goal_index: 1, ratio: 0.485260, mid_goal_x: -1.746559, mid_goal_y: 4.247417
+loop 135
+goal_index: 1, ratio: 0.444821, mid_goal_x: -1.726648, mid_goal_y: 4.345415
+loop 136
+goal_index: 1, ratio: 0.444821, mid_goal_x: -1.726648, mid_goal_y: 4.345415
+loop 137
+goal_index: 1, ratio: 0.404383, mid_goal_x: -1.706738, mid_goal_y: 4.443413
+loop 138
+goal_index: 1, ratio: 0.363945, mid_goal_x: -1.686827, mid_goal_y: 4.541411
+loop 139
+goal_index: 1, ratio: 0.323506, mid_goal_x: -1.666917, mid_goal_y: 4.639408
+loop 140
+goal_index: 1, ratio: 0.283068, mid_goal_x: -1.647006, mid_goal_y: 4.737406
+loop 141
+goal_index: 1, ratio: 0.242630, mid_goal_x: -1.627096, mid_goal_y: 4.835404
+loop 142
+goal_index: 1, ratio: 0.202192, mid_goal_x: -1.607185, mid_goal_y: 4.933402
+loop 143
+goal_index: 1, ratio: 0.161753, mid_goal_x: -1.587275, mid_goal_y: 5.031400
+loop 144
+goal_index: 1, ratio: 0.121315, mid_goal_x: -1.567364, mid_goal_y: 5.129398
+loop 145
+goal_index: 1, ratio: 0.080877, mid_goal_x: -1.547454, mid_goal_y: 5.227395
+loop 146
+goal_index: 1, ratio: 0.040438, mid_goal_x: -1.527543, mid_goal_y: 5.325393
+loop 147
+goal_index: 2, ratio: 0.837154, mid_goal_x: -1.564498, mid_goal_y: 5.502297
+loop 148
+goal_index: 2, ratio: 0.669723, mid_goal_x: -1.622964, mid_goal_y: 5.583425
+loop 149
+goal_index: 2, ratio: 0.669723, mid_goal_x: -1.622964, mid_goal_y: 5.583425
+loop 150
+goal_index: 2, ratio: 0.502292, mid_goal_x: -1.681431, mid_goal_y: 5.664552
+loop 151
+goal_index: 2, ratio: 0.334862, mid_goal_x: -1.739897, mid_goal_y: 5.745680
+loop 152
+goal_index: 2, ratio: 0.334862, mid_goal_x: -1.739897, mid_goal_y: 5.745680
+loop 153
+goal_index: 2, ratio: 0.167431, mid_goal_x: -1.798363, mid_goal_y: 5.826807
+loop 154
+goal_index: 2, ratio: 0.167431, mid_goal_x: -1.798363, mid_goal_y: 5.826807
+loop 155
+goal_index: 3, ratio: 0.987694, mid_goal_x: -1.856093, mid_goal_y: 5.922868
+loop 156
+goal_index: 3, ratio: 0.987694, mid_goal_x: -1.856093, mid_goal_y: 5.922868
+loop 157
+goal_index: 3, ratio: 0.987694, mid_goal_x: -1.856093, mid_goal_y: 5.922868
+loop 158
+goal_index: 3, ratio: 0.987694, mid_goal_x: -1.856093, mid_goal_y: 5.922868
+loop 159
+goal_index: 3, ratio: 0.905386, mid_goal_x: -1.851169, mid_goal_y: 6.022747
+loop 160
+goal_index: 3, ratio: 0.905386, mid_goal_x: -1.851169, mid_goal_y: 6.022747
+loop 161
+goal_index: 3, ratio: 0.905386, mid_goal_x: -1.851169, mid_goal_y: 6.022747
+loop 162
+goal_index: 3, ratio: 0.905386, mid_goal_x: -1.851169, mid_goal_y: 6.022747
+loop 163
+goal_index: 3, ratio: 0.823078, mid_goal_x: -1.846245, mid_goal_y: 6.122626
+loop 164
+goal_index: 3, ratio: 0.823078, mid_goal_x: -1.846245, mid_goal_y: 6.122626
+loop 165
+goal_index: 3, ratio: 0.823078, mid_goal_x: -1.846245, mid_goal_y: 6.122626
+loop 166
+goal_index: 3, ratio: 0.823078, mid_goal_x: -1.846245, mid_goal_y: 6.122626
+loop 167
+goal_index: 3, ratio: 0.740770, mid_goal_x: -1.841321, mid_goal_y: 6.222504
+loop 168
+goal_index: 3, ratio: 0.740770, mid_goal_x: -1.841321, mid_goal_y: 6.222504
+loop 169
+goal_index: 3, ratio: 0.658462, mid_goal_x: -1.836396, mid_goal_y: 6.322383
+loop 170
+goal_index: 3, ratio: 0.658462, mid_goal_x: -1.836396, mid_goal_y: 6.322383
+loop 171
+goal_index: 3, ratio: 0.576155, mid_goal_x: -1.831472, mid_goal_y: 6.422262
+loop 172
+goal_index: 3, ratio: 0.493847, mid_goal_x: -1.826548, mid_goal_y: 6.522140
+loop 173
+goal_index: 3, ratio: 0.411539, mid_goal_x: -1.821624, mid_goal_y: 6.622019
+loop 174
+goal_index: 3, ratio: 0.411539, mid_goal_x: -1.821624, mid_goal_y: 6.622019
+loop 175
+goal_index: 3, ratio: 0.329231, mid_goal_x: -1.816699, mid_goal_y: 6.721898
+loop 176
+goal_index: 3, ratio: 0.329231, mid_goal_x: -1.816699, mid_goal_y: 6.721898
+loop 177
+goal_index: 3, ratio: 0.246923, mid_goal_x: -1.811775, mid_goal_y: 6.821776
+loop 178
+goal_index: 3, ratio: 0.246923, mid_goal_x: -1.811775, mid_goal_y: 6.821776
+loop 179
+goal_index: 3, ratio: 0.246923, mid_goal_x: -1.811775, mid_goal_y: 6.821776
+loop 180
+goal_index: 3, ratio: 0.246923, mid_goal_x: -1.811775, mid_goal_y: 6.821776
+loop 181
+goal_index: 3, ratio: 0.164616, mid_goal_x: -1.806851, mid_goal_y: 6.921655
+loop 182
+goal_index: 3, ratio: 0.164616, mid_goal_x: -1.806851, mid_goal_y: 6.921655
+loop 183
+goal_index: 3, ratio: 0.164616, mid_goal_x: -1.806851, mid_goal_y: 6.921655
+loop 184
+goal_index: 3, ratio: 0.164616, mid_goal_x: -1.806851, mid_goal_y: 6.921655
