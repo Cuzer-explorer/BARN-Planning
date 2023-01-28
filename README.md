@@ -29,9 +29,9 @@ cd /src/scripts
 python2 my_run.py --gui --id xxx
 ```
 * world 99: 
-![world_99](https://github.com/Cuzer-explorer/BARN-Planning/blob/master/src/rrt_dwa/99.gif)
+![world_99](https://github.com/Cuzer-explorer/BARN-Planning/blob/master/src/rrt_dwa/v99.gif)
 * world 199: 
-![world_199](https://github.com/Cuzer-explorer/BARN-Planning/blob/master/src/rrt_dwa/199.gif)
+![world_199](https://github.com/Cuzer-explorer/BARN-Planning/blob/master/src/rrt_dwa/v199.gif)
 
 ## Acknowledgements
 
